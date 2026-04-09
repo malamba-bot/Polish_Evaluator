@@ -1,0 +1,14 @@
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/bin/Debug/net8.0/Hello_World
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/bin/Debug/net8.0/Hello_World.deps.json
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/bin/Debug/net8.0/Hello_World.runtimeconfig.json
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/bin/Debug/net8.0/Hello_World.dll
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/bin/Debug/net8.0/Hello_World.pdb
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/Hello_World.AssemblyInfoInputs.cache
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/Hello_World.AssemblyInfo.cs
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/Hello_World.csproj.CoreCompileInputs.cache
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/Hello_World.dll
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/refint/Hello_World.dll
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/Hello_World.pdb
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/Hello_World.genruntimeconfig.cache
+/Users/maxkinet/Games/CM121/CS_Basics/Hello_World/obj/Debug/net8.0/ref/Hello_World.dll
