@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Polish_Evaluator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de4a907f6d5a15d22ee6e2f902756b249a6afd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Polish_Evaluator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Polish_Evaluator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

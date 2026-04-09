@@ -7,3 +7,13 @@
 /Users/maxkinet/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.csproj.CoreCompileInputs.cache
 /Users/maxkinet/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.dll
 /Users/maxkinet/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.pdb
+/home/max/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.AssemblyInfoInputs.cache
+/home/max/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.AssemblyInfo.cs
+/home/max/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.csproj.CoreCompileInputs.cache
+/home/max/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.sourcelink.json
+/home/max/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.dll
+/home/max/Games/CM121/Polish_Evaluator/obj/Debug/netstandard2.1/Polish_Evaluator.pdb
+/home/max/Games/CM121/Polish_Evaluator/bin/Debug/netstandard2.1/Polish_Evaluator.deps.json
+/home/max/Games/CM121/Polish_Evaluator/bin/Debug/netstandard2.1/Polish_Evaluator.dll
+/home/max/Games/CM121/Polish_Evaluator/bin/Debug/netstandard2.1/Polish_Evaluator.pdb

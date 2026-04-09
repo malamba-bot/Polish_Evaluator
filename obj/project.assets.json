@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "/Users/maxkinet/.nuget/packages/": {}
+    "/home/max/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maxkinet/Games/CM121/Polish_Evaluator/Polish_Evaluator.csproj",
+      "projectUniqueName": "/home/max/Games/CM121/Polish_Evaluator/Polish_Evaluator.csproj",
       "projectName": "Polish_Evaluator",
-      "projectPath": "/Users/maxkinet/Games/CM121/Polish_Evaluator/Polish_Evaluator.csproj",
-      "packagesPath": "/Users/maxkinet/.nuget/packages/",
-      "outputPath": "/Users/maxkinet/Games/CM121/Polish_Evaluator/obj/",
+      "projectPath": "/home/max/Games/CM121/Polish_Evaluator/Polish_Evaluator.csproj",
+      "packagesPath": "/home/max/.nuget/packages/",
+      "outputPath": "/home/max/Games/CM121/Polish_Evaluator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/maxkinet/.nuget/NuGet/NuGet.Config"
+        "/home/max/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -38,13 +38,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.200"
+      }
     },
     "frameworks": {
       "netstandard2.1": {
@@ -65,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.125/RuntimeIdentifierGraph.json"
       }
     }
   }
