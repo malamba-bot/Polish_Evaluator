@@ -1,5 +1,8 @@
 is_global = true
 build_property.RootNamespace = Polish_Evaluator
-build_property.ProjectDir = /home/max/Games/CM121/Polish_Evaluator/
+build_property.ProjectDir = /Users/maxkinet/Games/CM121/Polish_Evaluator/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
